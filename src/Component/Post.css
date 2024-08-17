@@ -1,0 +1,150 @@
+.h{
+   
+   
+    margin-left: 100px;
+    font-size: larger;
+    
+    
+}
+body {
+    background-color: #1f1f1f;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1700px;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    
+}
+
+.layout {
+    width: 350px;
+    border: 1px solid #ddd;
+    background-color: #fbf6f6;
+    border-radius: 10px;
+   
+    
+}
+
+/* .layout.shared {
+    background-color: #080808;
+} */
+.on.o button{
+    background-color: green;
+}
+.dp {
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+    
+}
+/* .f{
+    margin-left: 95px;
+    display: flex;
+    border-radius: 5px;
+    color: black;
+    padding: 4px 7px;
+    background-color:white;
+} */
+.dp1 {
+    width: 35px;
+    height: 35px;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+h3 {
+    margin: 0;
+    font-size: 18px;
+}
+
+.post-img {
+    width: 100%;
+    height: 300px;
+   
+}
+
+.b {
+    display: flex;
+    /* justify-content: space-between; */
+    padding: 10px 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.b button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.like {
+    color: #fe1b2e;
+}
+
+.comment {
+    color: #161515;
+    font-size: 10px;
+    
+}
+
+.share {
+    color: #0d0d0e;
+    background-color: black;
+}
+
+.caption {
+    padding: 1px 15px;
+    font-size: 13px;
+    color: #181717;
+    margin-bottom: 2px;
+
+    
+}
+.time{
+    font-size: x-small;
+    color: #6b6a6a;
+    padding: 1px 15px;
+
+    margin: top 8px;
+    padding-bottom:8px;
+
+}
+.c{
+    color: #484848;
+    padding: 1px 15px;
+    margin-top: 3px;
+    font-size: small;
+
+}
+
+.save{
+    margin-left: 155px;
+    color: #0d0d0e;
+}
+.d{
+    margin-left: 15px;
+}
+
+.fb {
+    padding: 3px 9px;
+    font-size: 14px;
+    color: black;
+    background-color: #fefcfc;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+   border-color: #1f1f1f;
+    margin-left: 95px;
+}
+
+.fb.following {
+    background-color: #b6b8ba;
+    cursor: pointer;
+    margin-left: 55px;
+}
+
+.o{
+    size: 23px;
+}
